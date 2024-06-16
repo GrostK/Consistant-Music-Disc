@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 100000000000000000000
+    },
+    "description": {
+      "text": "Makes Discs more consistant to other discs"
+    }
+  }
+}
